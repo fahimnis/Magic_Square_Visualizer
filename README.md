@@ -3,5 +3,5 @@ This app visualizes the algorithm which calculates Magic Squares with odd number
 
 ## Try it live
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fahimnis/Magic_Square_Visualizer.git/masterurlpath=%2Fapps%2FFracFlowApp.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fahimnis/Magic_Square_Visualizer.git/master?urlpath=%2Fapps%2FFracFlowApp.ipynb)
 
