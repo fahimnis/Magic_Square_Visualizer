@@ -6,7 +6,6 @@ dependencies:
   - numpy
   - matplotlib
   - appmode
-  - pyqt5
   - qtconsole
-  - qt5
+
 
