@@ -7,3 +7,7 @@ DISCLAIMER: The live demo is currently not working due to some compatibility iss
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/fahimnis/Magic_Square_Visualizer.git/master?urlpath=%2Fapps%2FMagic_Square_Animation.ipynb)
 
+Example output with 15 sides
+
+![alt-text](https://github.com/fahimnis/Magic_Square_Visualizer/blob/master/ezgif.com-crop.gif)
+
